@@ -77,20 +77,6 @@ Then visit: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 📁 Folder Structure
-```
-WELLIFY/
-├── client/   ← React frontend
-│   └── src/
-│       ├── pages/
-│       ├── components/
-│       ├── assets/
-│       └── context/
-├── server/   ← Node.js backend
-```
-
----
-
 ## 💡 Future Ideas
 - 🧠 Integrate ML for health recommendations
 - 📅 Add habit streak tracker
@@ -98,6 +84,6 @@ WELLIFY/
 
 ---
 
-## 🧑‍💻 Made With ❤️ by [Your Name]
+## 🧑‍💻 Made With ❤️ by Me.
 
 > Feel free to fork or star this repo if it helps you ✨
